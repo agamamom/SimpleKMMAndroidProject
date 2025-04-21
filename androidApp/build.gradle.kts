@@ -43,4 +43,8 @@ dependencies {
     implementation(libs.compose.material3)
     implementation(libs.androidx.activity.compose)
     debugImplementation(libs.compose.ui.tooling)
+    implementation("androidx.compose.material:material:1.6.8")
+    implementation("androidx.compose.foundation:foundation:1.6.8")
+    implementation("org.jetbrains.kotlinx:kotlinx-coroutines-android:1.8.1")
+    implementation("androidx.lifecycle:lifecycle-viewmodel-compose:2.6.2")
 }
