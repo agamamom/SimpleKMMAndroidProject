@@ -6,3 +6,4 @@ object ImageResources {
     const val Background = "background"
     const val SbotIcon = "sbot_icon"
 }
+

@@ -17,3 +17,4 @@ dependencyResolutionManagement {
 rootProject.name = "SimpleKMMProject"
 include(":androidApp")
 include(":shared")
+include(":mylibrary")
